@@ -1,0 +1,14 @@
+name: nist-srsw-data-analysis
+channels:
+  - conda-forge
+dependencies:
+  - tmmc-lnpy
+  - pandas
+  - ipython
+  - ipykernel
+  - ipywidgets
+  - matplotlib
+  - seaborn
+  - tqdm
+  - matplotlib
+

@@ -1,0 +1,3 @@
+[submodule "data/NIST_SRSW_Data"]
+	path = data/NIST_SRSW_Data
+	url = https://github.com/dwsideriusNIST/NIST_SRSW_Data.git
